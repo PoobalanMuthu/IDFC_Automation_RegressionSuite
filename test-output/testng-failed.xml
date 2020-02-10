@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite_seq]">
+  <parameter name="Locality" value="Hub"/>
+  <parameter name="appType" value="Native"/>
+  <parameter name="ExecutionType" value="Sequential"/>
+  <parameter name="testname1" value="Test_AFL_iOS_Check_NgcdnUrl"/>
+  <parameter name="browser" value="Chrome"/>
+  <parameter name="testname" value="Test_AFL_iOS_Check_NgcdnUrl-Run1"/>
+  <parameter name="platformName" value="Android"/>
+  <parameter name="udid" value="03157df35375a910"/>
+  <parameter name="deviceName" value="Telstra I&#039;Phone"/>
+  <parameter name="toolName" value="Appium"/>
+  <test name="Test_AFL_iOS_Check_NgcdnUrl-Run1(failed)">
+    <parameter name="Locality" value="Hub"/>
+    <parameter name="appType" value="Native"/>
+    <parameter name="ExecutionType" value="Sequential"/>
+    <parameter name="testname1" value="Test_AFL_iOS_Check_NgcdnUrl"/>
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="testname" value="Test_AFL_iOS_Check_NgcdnUrl-Run1"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="udid" value="03157df35375a910"/>
+    <parameter name="deviceName" value="Telstra I&#039;Phone"/>
+    <parameter name="toolName" value="Appium"/>
+    <classes>
+      <class name="com.mop.qa.test.regression.Test_AFL_iOS_Check_NgcdnUrl">
+        <methods>
+          <include name="executeSuite"/>
+          <include name="afterMethod"/>
+          <include name="run"/>
+          <include name="afterTest"/>
+          <include name="finishExecution"/>
+          <include name="startTestReport"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.mop.qa.test.regression.Test_AFL_iOS_Check_NgcdnUrl -->
+    </classes>
+  </test> <!-- Test_AFL_iOS_Check_NgcdnUrl-Run1(failed) -->
+</suite> <!-- Failed suite [Suite_seq] -->

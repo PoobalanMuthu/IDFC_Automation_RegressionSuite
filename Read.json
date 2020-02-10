@@ -1,0 +1,12 @@
+{
+	"scenario1": [{
+		"TestCase": "S01_New_Registration-Run1",
+		"URL": "https://svt-serviceportal.sdpamp.com/",
+		"UserName": "Srividya.Ramaswamy@team.telstra.com",
+		"EmailAddress": "Srividya.Ramaswamy@team.telstra.com",
+		"EmailRegister": "Sri.my4@team.telstra.com",
+		"Password": "Test@1243",
+		"ConfirmPassword": "Test@1243",
+		"payload": "https://en.wikipedia.org/wiki/Leon_Trotsky_thats_me/SatishTelstra"
+	}]
+}

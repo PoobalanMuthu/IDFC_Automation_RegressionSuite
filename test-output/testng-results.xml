@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="cross_para" duration-ms="0" started-at="2020-02-07T11:03:51Z" finished-at="2020-02-07T11:03:51Z">
+    <groups>
+    </groups>
+  </suite> <!-- cross_para -->
+  <suite name="Suite_seq" duration-ms="4526" started-at="2020-02-07T11:03:46Z" finished-at="2020-02-07T11:03:51Z">
+    <groups>
+    </groups>
+    <test name="Change_Password_in_MyAccount_and_login_TestApplication_Test-Run1" duration-ms="4526" started-at="2020-02-07T11:03:46Z" finished-at="2020-02-07T11:03:51Z">
+      <class name="com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test">
+        <test-method status="PASS" signature="executeSuite(org.testng.ITestContext)[pri:0, instance:com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test@491666ad]" name="executeSuite" is-config="true" duration-ms="269" started-at="2020-02-07T16:33:46Z" finished-at="2020-02-07T16:33:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5489c777]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeSuite -->
+        <test-method status="PASS" signature="startTestReport(org.testng.ITestContext)[pri:0, instance:com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test@491666ad]" name="startTestReport" is-config="true" duration-ms="4224" started-at="2020-02-07T16:33:46Z" finished-at="2020-02-07T16:33:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5489c777]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestReport -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test@491666ad]" name="beforeMethod" is-config="true" duration-ms="31" started-at="2020-02-07T16:33:50Z" finished-at="2020-02-07T16:33:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test.S5() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="S5()[pri:0, instance:com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test@491666ad]" name="S5" duration-ms="74" started-at="2020-02-07T16:33:50Z" finished-at="2020-02-07T16:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- S5 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test@491666ad]" name="afterMethod" is-config="true" duration-ms="187" started-at="2020-02-07T16:33:50Z" finished-at="2020-02-07T16:33:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=S5 status=SUCCESS method=Change_Password_in_MyAccount_and_login_TestApplication_Test.S5()[pri:0, instance:com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test@491666ad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test@491666ad]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-02-07T16:33:51Z" finished-at="2020-02-07T16:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="finishExecution()[pri:0, instance:com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test@491666ad]" name="finishExecution" is-config="true" duration-ms="28" started-at="2020-02-07T16:33:51Z" finished-at="2020-02-07T16:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishExecution -->
+      </class> <!-- com.mop.qa.test.bvt.Change_Password_in_MyAccount_and_login_TestApplication_Test -->
+    </test> <!-- Change_Password_in_MyAccount_and_login_TestApplication_Test-Run1 -->
+  </suite> <!-- Suite_seq -->
+</testng-results>

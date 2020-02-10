@@ -1,0 +1,3 @@
+Test Script Name,Episode,Amazon_App_Icon
+tests/test.py::test_stbt,Dateline,
+tests/roku_Amazon_handson.py::test_BBC_HandsOn,1,images/Amazon_app/Amazon_app_icon.png
